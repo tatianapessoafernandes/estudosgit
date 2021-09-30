@@ -1,9 +1,23 @@
 git init -  a pasta será controlada pelo git
 
+
 git add - adicionar a pasta no git - unstage
 (passa do working diretory to staging area)
 
+
 git commit - 
+
+
+git commit -m "mensagem"
+
+
+git add .  - acrescenta todos os arquivos dessa pasta
+
+
+git rm --cached EstudoComandosGit.txt
+(remove o arquivo do unstage e volta pro working diretory)
+
+
 
 
 ls - lista de arquivos e diretórios
