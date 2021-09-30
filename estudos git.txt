@@ -1,0 +1,11 @@
+git init -  a pasta será controlada pelo git
+
+git add - adicionar a pasta no git - unstage
+
+
+
+ls - lista de arquivos e diretórios
+cd - entra em diret´rios / pastas
+cd .. - Volta para o diretorio anterior
+ctrl L - limpar o console
+
